@@ -100,4 +100,4 @@ An indicator variable (or dummy variable) is a numerical variable used to label 
 
 So we can use categorical variables for regression analysis in the later modules.
 
-                                  *# Thank You*
+*# Thank You*
