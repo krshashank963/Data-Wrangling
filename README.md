@@ -96,8 +96,11 @@ Normalization is the process of transforming values of several variables into a 
 
 An indicator variable (or dummy variable) is a numerical variable used to label categories. They are called 'dummies' because the numbers themselves don't have inherent meaning.
 
+
 ### Why we use indicator variables?
 
 So we can use categorical variables for regression analysis in the later modules.
 
-*# Thank You*
+
+
+# Thank You
