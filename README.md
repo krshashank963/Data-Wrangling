@@ -85,6 +85,7 @@ In Pandas, we use
 
 2. .astype() to change the data type
 
+
 ## Data Normalization
 ### Why normalization?
 
@@ -98,3 +99,5 @@ An indicator variable (or dummy variable) is a numerical variable used to label 
 ### Why we use indicator variables?
 
 So we can use categorical variables for regression analysis in the later modules.
+
+                                  *# Thank You*
